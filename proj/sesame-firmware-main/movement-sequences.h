@@ -7,8 +7,8 @@ enum ServoName : uint8_t {
   R2 = 1,
   L1 = 2,
   L2 = 3,
-  R4 = 4,
-  R3 = 5,
+  R4 = 5,
+  R3 = 4,
   L3 = 6,
   L4 = 7
 };
